@@ -64,6 +64,8 @@ bool solve(ll n)
 
 int main()
 {
+    ios_base::sync_with_stdio(false); // fast input output
+    cin.tie(NULL);
     int T;
     cin >> T;
     while (T)
